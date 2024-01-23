@@ -19,6 +19,7 @@ Copy code
 npm run test
 This command will open the Cypress Test Runner, allowing you to run individual test cases or the entire suite.
 
+````
 Test Structure
 UI tests are located in cypress/integration.
 Custom commands and utilities are defined in cypress/support.
