@@ -1,0 +1,18 @@
+{
+  "name": "ui_auto_automation_exercise",
+  "version": "1.0.0",
+  "description": "ui automation using cypress on website automationexercise",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "argavi",
+  "license": "ISC",
+  "devDependencies": {
+    "@cypress/browserify-preprocessor": "^3.0.2",
+    "babel-plugin-module-resolver": "^5.0.0",
+    "cypress": "^13.6.1",
+    "cypress-mochawesome-reporter": "^3.7.0",
+    "prettier": "^3.1.1"
+  }
+}
