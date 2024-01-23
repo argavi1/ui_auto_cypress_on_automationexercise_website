@@ -10,7 +10,7 @@ Automated UI tests for the AutomationExercise website using Cypress in JavaScrip
 ## Installation
 
 ```bash
-git clone https://github.com/your-username/ui-automation-cypress.git
+git clone https://github.com/argavi1/ui_auto_cypress_on_automationexercise_website
 cd ui-automation-cypress
 npm install
 Running Tests
